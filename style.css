@@ -1,0 +1,16 @@
+#chessboard {
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+}
+
+.cell {
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    float: left;
+}
+
+.white {
+    background-color: aliceblue;
+}
